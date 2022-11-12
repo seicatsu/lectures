@@ -5,7 +5,7 @@
 
 # Örnek 2
 # Boy ve kilo girdiginizde BMI hesaplayan bir kod yazınız
-# BMI kiloyu, boy uzunluğunun karesine bölerek elde ediyoruz
+# BMI'ı; kiloyu, boy uzunluğunun karesine bölerek elde ediyoruz
 
 # Örnek 3
 # Kullanıcı yaşını girdiğinde kaç gün, kaç hafta, kaç ay yaşadığını söyleyen kod
